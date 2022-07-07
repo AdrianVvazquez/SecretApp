@@ -1,0 +1,51 @@
+.Main-screen {
+    margin: 0;
+    padding: 15px;
+}
+
+.icon-plus-square {
+    cursor: pointer;
+}
+
+.btn-confess-show {
+    cursor: pointer;
+    width: fit-content;
+}
+
+.btn-confess-submit {
+    margin: 5px 0px;
+    padding: 13px;
+    background-color: #cc80cc;
+    border: 3px solid;
+    border-radius: 15px;
+    color: #f7f7f7;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.text-box {
+    border: 5px solid black;
+    border-radius: 8px;
+    /* border-color: black; */
+    padding: 15px;
+    height: 150px;
+    width: 520px;
+}
+
+.text-tag {
+    width: fit-content;
+}
+
+.card {
+    margin: 15px;
+}
+
+.card p {
+    padding: 15px 15px;
+    font-weight: bold;
+}
+
+.p-name {
+    background-color: #cc80cc;
+    font-size: large;
+}
